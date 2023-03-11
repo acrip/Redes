@@ -1,0 +1,85 @@
+﻿Actividades capítulo 1 y 2 CCNA1 http://www.unicauca.edu.co/portaleningles/sites/default/files/escudo-unicauca_3.jpg 
+
+
+UNIVERSIDAD DEL CAUCA
+
+
+FECHA:
+NOMBRE: 
+CÓDIGO SIMCA:
+
+
+1. Leer los capítulos 1 y 2 del curso de Cisco.
+2. Responder las preguntas de la lectura y enviarlas en PDF.
+
+
+Preguntas de lectura: Capítulo 1
+1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+Las redes pueden afectar nuestra vida cotidiana al proporcionar soluciones de comunicación y conectividad que nos ayudan, entre otras cosas,  a trabajar de manera más eficiente y efectiva en línea.
+Durante las actividades cotidianas del dia a dia podemos utilizar las redes para buscar el camino menos congestionado a casa, hacer compras en línea, hacer reservaciones, consultar el estado de cuentas bancarias entre una infinidad de opciones que sin las redes serían muy difíciles o imposibles de realizar
+2. Listar las actividades cotidianas que realiza usted utilizando internet
+3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+Hoy en día con la infraestructura de red que tenemos y la amplia variedad de dispositivos que pueden conectarse a estas, más aún con el avance de IoT, es fácil tener a la mano dispositivos inteligentes que hacen uso de esta.
+En mi caso personal utilizo herramientas tales como smartphones, portátiles, smart TV, relojes, entre otros.
+4. Describir los factores que afectan la calidad de las comunicaciones.
+5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Toda red de datos tienes estos 4 elementos clave:
+-Reglas: normas o protocolos que especifican la forma en que los mensajes deben enviarse
+-Medio: Es la infraestructura de red tanto cableada como inalámbrica a través de la cual se comparte información.
+-Mensajes: Conjunto de bits con la información a transportar 
+-Dispositivos: Son los que acceden a la red para intercambiar información
+
+
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+-Tolerante a fallas: es la capacidad de la red de reponerse o seguir funcionando a pesar de las adversidades
+-Escalabilidad: capacidad de expandirse a nuevos usuarios y aplicaciones sin afectar el rendimiento del servicio
+Calidad del servicio: Tiene que ver con los tiempos de respuesta de la red y la capacidad de entregar la información de forma correcta.
+Seguridad: Capacidad de la red de mantener la comunicación y el transporte de información entre dos o más entes pudiendo evitar filtraciones de información o accesos no deseados
+8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+Es la capacidad de crear un servicio ininterrumpido como la transferencia de voz y video para que se sienta como si fuese en persona y no sentir la latencia de la comunicación.
+10. ¿Por qué importa la calidad del servicio en una red de datos? 
+
+
+Preguntas de lectura: Capítulo 2
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+La estructura de una red puede variar dependiendo del tipo de red y su propósito, pero en general, una red se compone de dispositivos, medios y servicios que permiten la comunicación exitosa entre ellos.
+Los dispositivos de red son los componentes físicos que forman parte de la red y se utilizan para interconectar los diferentes puntos de la misma. 
+Los medios de red son los medios físicos o inalámbricos a través de los cuales se transmiten los datos.
+Los servicios de red son los servicios que se proporcionan a través de la red y que permiten la comunicación entre los diferentes dispositivos de la misma. 
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+La principal diferencia entre internetwork e Internet es que internetwork es un término más general que se refiere a cualquier red que conecta diferentes redes, mientras que "Internet" es un término específico que se refiere a la red global de redes interconectadas.
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Se dice que un protocolo es independiente de la tecnología porque está diseñado para ser compatible con diferentes tipos de tecnologías y medios de transmisión de datos.
+Los protocolos establecen las reglas y normas que se utilizan para la comunicación entre diferentes dispositivos y sistemas informáticos, independientemente del tipo de tecnología o medio de transmisión que se utilice. Por ejemplo, el protocolo de Internet (IP) es independiente de la tecnología y se puede utilizar con diferentes tipos de redes, como redes de cable, redes inalámbricas, redes de fibra óptica, etc.
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Los protocolos son conjuntos de reglas y normas que se utilizan para permitir la comunicación entre dispositivos y sistemas informáticos en una red. Los protocolos establecen la forma en que los dispositivos se comunican entre sí, definen los formatos de los mensajes y especifican los procedimientos para el control de errores, la seguridad, la autenticación y otros aspectos de la comunicación.
+El proceso de encapsulamiento de datos se refiere a la forma en que se agregan capas de información adicional (encapsulamiento) a los datos que se están transmitiendo en una red. Cada capa añade información específica que es necesaria para permitir la transmisión y la recepción de los datos a través de la red.
+El modelo TCP/IP se divide en cuatro capas: capa de aplicación, capa de transporte, capa de Internet y capa de acceso a la red. En cada capa, los datos se encapsulan en una unidad de datos específica (PDU) que tiene un nombre específico. A continuación, se ilustran los nombres de cada PDU en cada capa del modelo TCP/IP:
+Capa de aplicación: En esta capa, los datos se encapsulan en una PDU llamada "mensaje". Esta capa es responsable de proporcionar servicios de red a las aplicaciones y programas que se ejecutan en el sistema.
+Capa de transporte: En esta capa, los datos se encapsulan en una PDU llamada "segmento". Esta capa es responsable de proporcionar servicios de transporte confiable y eficiente, y asegura que los datos se transmitan correctamente desde el origen al destino.
+Capa de Internet: En esta capa, los datos se encapsulan en una PDU llamada "datagrama". Esta capa es responsable de enrutar los datos a través de la red y de proporcionar servicios de control de errores y de fragmentación de paquetes.
+Capa de acceso a la red: En esta capa, los datos se encapsulan en una PDU llamada "trama". Esta capa es responsable de transmitir los datos a través del medio físico de la red, como cable de red, fibra óptica, ondas de radio, etc.
+
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP:
+Capa de acceso a la red: Esta capa se encarga de la transmisión de los datos a través del medio físico de la red, como el cable de red, fibra óptica, ondas de radio, etc.
+Capa de Internet: Esta capa se encarga del envío de los datos a través de la red y de la selección de la mejor ruta para llegar al destino. También se encarga de la fragmentación y reensamblado de los datos si es necesario.
+Capa de transporte: Esta capa se encarga de la entrega de los datos de manera fiable y eficiente. La capa de transporte divide los datos en paquetes y se asegura de que los paquetes se transmitan y lleguen al destino correctamente.
+Capa de aplicación: Esta capa proporciona servicios de red a las aplicaciones y programas que se ejecutan en el sistema. La capa de aplicación incluye protocolos para servicios de correo electrónico, navegadores web, transferencia de archivos, etc.
+
+
+Modelo OSI:
+Capa física: Esta capa se encarga de la transmisión de los bits a través del medio físico de la red. Esta capa define los estándares físicos, como los tipos de cable, conectores y señales eléctricas.
+Capa de enlace de datos: Esta capa se encarga de la transferencia de los datos entre dispositivos conectados en la misma red. La capa de enlace de datos define los estándares para la forma en que los datos se transmiten a través del medio físico y proporciona detección y corrección de errores.
+Capa de red: Esta capa se encarga del enrutamiento de los datos a través de la red. La capa de red selecciona la mejor ruta para enviar los datos y realiza la fragmentación y reensamblado de los datos si es necesario.
+Capa de transporte: Esta capa se encarga de la entrega de los datos de manera fiable y eficiente. La capa de transporte divide los datos en segmentos y se asegura de que los segmentos se transmitan y lleguen al destino correctamente.
+Capa de sesión: Esta capa se encarga de establecer, mantener y finalizar las sesiones de comunicación entre los dispositivos en la red.
+Capa de presentación: Esta capa se encarga de la presentación y el formato de los datos para que sean entendidos por las aplicaciones y programas.
+Capa de aplicación: Esta capa proporciona servicios de red a las aplicaciones y programas que se ejecutan en el sistema. La capa de aplicación incluye protocolos para servicios de correo electrónico, navegadores web, transferencia de archivos, etc.
