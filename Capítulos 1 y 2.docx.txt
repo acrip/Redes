@@ -18,6 +18,15 @@ Preguntas de lectura: Capítulo 1
 Las redes pueden afectar nuestra vida cotidiana al proporcionar soluciones de comunicación y conectividad que nos ayudan, entre otras cosas,  a trabajar de manera más eficiente y efectiva en línea.
 Durante las actividades cotidianas del dia a dia podemos utilizar las redes para buscar el camino menos congestionado a casa, hacer compras en línea, hacer reservaciones, consultar el estado de cuentas bancarias entre una infinidad de opciones que sin las redes serían muy difíciles o imposibles de realizar
 2. Listar las actividades cotidianas que realiza usted utilizando internet
+  
+  -Mensajería instantánea
+  -Redes sociales
+  -Descarga y reproducción de contenido multimedia
+  -Llamadas
+  -Correo electrónico
+  -Navegación web
+  -Juegos 
+  
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 Hoy en día con la infraestructura de red que tenemos y la amplia variedad de dispositivos que pueden conectarse a estas, más aún con el avance de IoT, es fácil tener a la mano dispositivos inteligentes que hacen uso de esta.
 En mi caso personal utilizo herramientas tales como smartphones, portátiles, smart TV, relojes, entre otros.
