@@ -76,6 +76,11 @@ Los dispositivos de red son los componentes físicos que forman parte de la red 
 Los medios de red son los medios físicos o inalámbricos a través de los cuales se transmiten los datos.
 Los servicios de red son los servicios que se proporcionan a través de la red y que permiten la comunicación entre los diferentes dispositivos de la misma. 
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+RED: Un conjunto de medios, tecnologías, protocolos necesarios para el intercambio de información y archivos entre los usuarios de una red.
+RED LAN : Generalmente una red lan una única área geográfica y proporciona servicios y aplicaciones a personas dentro de una estructura organizacional común, como una empresa, un campus o una región mientras que una RED WAN o redes de área amplia es aquella que permite conectar áreas con grandes distancias, las redes WAN permiten la comunicación entre redes LAN
+INTERNETWORK: Es una red global de redes interconectadas que cubre las necesidades de comunicación humana y dentro de ella está las más conocidas, ampliamente utilizadas ya la que accede al público en general es Internet, pero también están otras redes privadas como agencias gubernamentales o empresas industriales , y están reservadas para su uso exclusivo.  
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 La principal diferencia entre internetwork e Internet es que internetwork es un término más general que se refiere a cualquier red que conecta diferentes redes, mientras que "Internet" es un término específico que se refiere a la red global de redes interconectadas.
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
