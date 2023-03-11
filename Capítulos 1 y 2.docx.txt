@@ -26,7 +26,7 @@ Durante las actividades cotidianas del dia a dia podemos utilizar las redes para
   -Correo electrónico
   -Navegación web
   -Juegos 
-  
+
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 Hoy en día con la infraestructura de red que tenemos y la amplia variedad de dispositivos que pueden conectarse a estas, más aún con el avance de IoT, es fácil tener a la mano dispositivos inteligentes que hacen uso de esta.
 En mi caso personal utilizo herramientas tales como smartphones, portátiles, smart TV, relojes, entre otros.
