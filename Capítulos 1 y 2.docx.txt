@@ -51,6 +51,11 @@ Toda red de datos tienes estos 4 elementos clave:
 
 
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+-Los datos son todo tipo de información ya sea texto, audio, video entre otros
+-Una red de datos es una infraestructura que permite compartir datos
+-Una red convergentes es aquella que permite compartir todo tipo de dato mediante una misma red en lugar de utilizar redes separada
+
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 -Tolerante a fallas: es la capacidad de la red de reponerse o seguir funcionando a pesar de las adversidades
 -Escalabilidad: capacidad de expandirse a nuevos usuarios y aplicaciones sin afectar el rendimiento del servicio
