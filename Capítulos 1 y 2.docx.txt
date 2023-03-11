@@ -84,10 +84,23 @@ INTERNETWORK: Es una red global de redes interconectadas que cubre las necesidad
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 La principal diferencia entre internetwork e Internet es que internetwork es un término más general que se refiere a cualquier red que conecta diferentes redes, mientras que "Internet" es un término específico que se refiere a la red global de redes interconectadas.
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+Una tarjeta de interfaz de red es aquella que proporciona la conexión física con la red en la computadora personal u otro dispositivo host, por otro lado puerto físico es aquel que está conectado a través del medio a un dispositivo host, este permite conectar un dispositivo final a través del NIC con otro dispositivo final, y la interfaz de red son puertos especializados de un dispositivo de internetworking que se conecta con redes individuales, los puertos de un router se conocen como interfaces de red.
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
 Se dice que un protocolo es independiente de la tecnología porque está diseñado para ser compatible con diferentes tipos de tecnologías y medios de transmisión de datos.
 Los protocolos establecen las reglas y normas que se utilizan para la comunicación entre diferentes dispositivos y sistemas informáticos, independientemente del tipo de tecnología o medio de transmisión que se utilice. Por ejemplo, el protocolo de Internet (IP) es independiente de la tecnología y se puede utilizar con diferentes tipos de redes, como redes de cable, redes inalámbricas, redes de fibra óptica, etc.
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+  Una unidad de Datos del Protocolo (PDU) es una porción de datos que llegan a cada capa, cada capa encapsula los datos que recibe de la capa anterior de acuerdo con el protocolo que se utiliza.
+  Nombre de la PDU en cada capa según los protocolos de la suite TCP/IP:
+
+  Datos: término general para la PDU que se utiliza en la capa de aplicación.
+  Segmento: PDU de la capa de transporte.
+  Paquete: PDU de la capa de red
+  Trama: PDU de la capa de enlace de datos
+  Bits: PDU de la capa física que se utiliza cuando se transmiten datos físicos por el medio
+
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 Los protocolos son conjuntos de reglas y normas que se utilizan para permitir la comunicación entre dispositivos y sistemas informáticos en una red. Los protocolos establecen la forma en que los dispositivos se comunican entre sí, definen los formatos de los mensajes y especifican los procedimientos para el control de errores, la seguridad, la autenticación y otros aspectos de la comunicación.
 El proceso de encapsulamiento de datos se refiere a la forma en que se agregan capas de información adicional (encapsulamiento) a los datos que se están transmitiendo en una red. Cada capa añade información específica que es necesaria para permitir la transmisión y la recepción de los datos a través de la red.
