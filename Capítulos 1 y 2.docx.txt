@@ -62,6 +62,8 @@ Toda red de datos tienes estos 4 elementos clave:
 Calidad del servicio: Tiene que ver con los tiempos de respuesta de la red y la capacidad de entregar la información de forma correcta.
 Seguridad: Capacidad de la red de mantener la comunicación y el transporte de información entre dos o más entes pudiendo evitar filtraciones de información o accesos no deseados
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+  Las redes orientadas a conexión son aquellas que se basan en los sistemas telefónicos, en donde primero se establece la ruta por donde viajará la información y esta se mantiene hasta el final de la conexión. por el contrario en las redes no orientadas a conexión el emisor puede enviar un mensaje sin la necesidad de asegurarse de que el emisor esté disponible.
+
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 Es la capacidad de crear un servicio ininterrumpido como la transferencia de voz y video para que se sienta como si fuese en persona y no sentir la latencia de la comunicación.
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
