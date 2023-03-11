@@ -1,0 +1,73 @@
+﻿Actividades capítulo 1 y 2 CCNA1 http://www.unicauca.edu.co/portaleningles/sites/default/files/escudo-unicauca_3.jpg 
+
+
+UNIVERSIDAD DEL CAUCA
+
+
+FECHA:
+NOMBRE: 
+CÓDIGO SIMCA:
+
+
+1. Leer los capítulos 1 y 2 del curso de Cisco.
+
+2. Listar las actividades cotidianas que realiza usted utilizando internet
+  
+  -Mensajería instantánea
+  -Redes sociales
+  -Descarga y reproducción de contenido multimedia
+  -Llamadas
+  -Correo electrónico
+  -Navegación web
+  -Juegos 
+  
+4. Describir los factores que afectan la calidad de las comunicaciones.
+  
+  -Factores Externos
+  .Calidad de la ruta entre el emisor y el receptor mejora la calidad de la comunicacion debido a que rutas de mala calidad puede generar perdida o retrasos en los datos del mensaje
+  .Cantidad de veces que el mensaje tiene que cambiar la forma, este factor está ligado a la cantidad de nodos que tiene que atravesar un mensaje desde el origen hasta el destino, el cual una vez y enviado según los protocolos pasarán por diferentes transformaciones en las cuales se pueden perder información y por lo tanto afectar la comunicación.
+  .La cantidad de veces que el mensaje tiene que ser redireccionado o redirigido, esto dado que la cantidad de redireccionamientos afectará el tiempo que tarda en llegar el mensaje
+  .La cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación, factor que afectará la velocidad y la integridad de la información.
+  .la cantidad de tiempo asignado para una comunicación exitosa. Podría generar que un mensaje que se retrase en su llegada se pierda cuando la comunicación se cierra una vez finalizado el tiempo asignado.
+  -Factores internos
+  .Tamaño del mensaje: puede afectar el tiempo del mensaje en diferentes puntos de la red, a mayor tamaño del mensaje podría demorar más o verse interrumpido.
+  .la complejidad del mensaje y la importancia del mensaje: Un mensaje de baja importancia podría perderse en la red si esta está sobrecargada
+
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+-Los datos son todo tipo de información ya sea texto, audio, video entre otros
+-Una red de datos es una infraestructura que permite compartir datos
+-Una red convergentes es aquella que permite compartir todo tipo de dato mediante una misma red en lugar de utilizar redes separada
+
+8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+  Las redes orientadas a conexión son aquellas que se basan en los sistemas telefónicos, en donde primero se establece la ruta por donde viajará la información y esta se mantiene hasta el final de la conexión. por el contrario en las redes no orientadas a conexión el emisor puede enviar un mensaje sin la necesidad de asegurarse de que el emisor esté disponible.
+10. ¿Por qué importa la calidad del servicio en una red de datos? 
+  La calidad del servicio importa en una red de datos porque la información que se comparte ha advertido en su complejidad, cada día los usuarios demandan más servicios a la red como lo es texto, audio, video, llamadas etc por lo tanto esto tiene que estar en la capacidad de ofrecer un servicio que llene las expectativas de los usuarios tanto en velocidad, estabilidad y confiabilidad.
+
+Preguntas de lectura: Capítulo 2
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+RED: Un conjunto de medios, tecnologías, protocolos necesarios para el intercambio de información y archivos entre los usuarios de una red.
+RED LAN : Generalmente una red lan una única área geográfica y proporciona servicios y aplicaciones a personas dentro de una estructura organizacional común, como una empresa, un campus o una región mientras que una RED WAN o redes de área amplia es aquella que permite conectar áreas con grandes distancias, las redes WAN permiten la comunicación entre redes LAN
+INTERNETWORK: Es una red global de redes interconectadas que cubre las necesidades de comunicación humana y dentro de ella está las más conocidas, ampliamente utilizadas ya la que accede al público en general es Internet, pero también están otras redes privadas como agencias gubernamentales o empresas industriales , y están reservadas para su uso exclusivo.  
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+Una tarjeta de interfaz de red es aquella que proporciona la conexión física con la red en la computadora personal u otro dispositivo host, por otro lado puerto físico es aquel que está conectado a través del medio a un dispositivo host, este permite conectar un dispositivo final a través del NIC con otro dispositivo final, y la interfaz de red son puertos especializados de un dispositivo de internetworking que se conecta con redes individuales, los puertos de un router se conocen como interfaces de red.
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+  Una unidad de Datos del Protocolo (PDU) es una porción de datos que llegan a cada capa, cada capa encapsula los datos que recibe de la capa anterior de acuerdo con el protocolo que se utiliza.
+  Nombre de la PDU en cada capa según los protocolos de la suite TCP/IP:
+
+  Datos: término general para la PDU que se utiliza en la capa de aplicación.
+  Segmento: PDU de la capa de transporte.
+  Paquete: PDU de la capa de red
+  Trama: PDU de la capa de enlace de datos
+  Bits: PDU de la capa física que se utiliza cuando se transmiten datos físicos por el medio
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+  Un modelo protocolo es aquel que coincide fielmente con la estructura de una suite de protocolo en particular ejemplo el modelo TCP/IP con el protocolo TCP , por otro lado un modelo referencia no está pensado para una estructura de protocolo en particular sino que su fin es estandarizar y explicar el funcionamiento de los diferentes protocolos utilizados en una red.
+
