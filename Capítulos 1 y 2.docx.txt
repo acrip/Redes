@@ -31,6 +31,17 @@ Durante las actividades cotidianas del dia a dia podemos utilizar las redes para
 Hoy en día con la infraestructura de red que tenemos y la amplia variedad de dispositivos que pueden conectarse a estas, más aún con el avance de IoT, es fácil tener a la mano dispositivos inteligentes que hacen uso de esta.
 En mi caso personal utilizo herramientas tales como smartphones, portátiles, smart TV, relojes, entre otros.
 4. Describir los factores que afectan la calidad de las comunicaciones.
+  
+  -Factores Externos
+  .Calidad de la ruta entre el emisor y el receptor mejora la calidad de la comunicacion debido a que rutas de mala calidad puede generar perdida o retrasos en los datos del mensaje
+  .Cantidad de veces que el mensaje tiene que cambiar la forma, este factor está ligado a la cantidad de nodos que tiene que atravesar un mensaje desde el origen hasta el destino, el cual una vez y enviado según los protocolos pasarán por diferentes transformaciones en las cuales se pueden perder información y por lo tanto afectar la comunicación.
+  .La cantidad de veces que el mensaje tiene que ser redireccionado o redirigido, esto dado que la cantidad de redireccionamientos afectará el tiempo que tarda en llegar el mensaje
+  .La cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación, factor que afectará la velocidad y la integridad de la información.
+  .la cantidad de tiempo asignado para una comunicación exitosa. Podría generar que un mensaje que se retrase en su llegada se pierda cuando la comunicación se cierra una vez finalizado el tiempo asignado.
+  -Factores internos
+  .Tamaño del mensaje: puede afectar el tiempo del mensaje en diferentes puntos de la red, a mayor tamaño del mensaje podría demorar más o verse interrumpido.
+  .la complejidad del mensaje y la importancia del mensaje: Un mensaje de baja importancia podría perderse en la red si esta está sobrecargada
+
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 Toda red de datos tienes estos 4 elementos clave:
 -Reglas: normas o protocolos que especifican la forma en que los mensajes deben enviarse
