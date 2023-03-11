@@ -67,7 +67,7 @@ Seguridad: Capacidad de la red de mantener la comunicación y el transporte de i
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 Es la capacidad de crear un servicio ininterrumpido como la transferencia de voz y video para que se sienta como si fuese en persona y no sentir la latencia de la comunicación.
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
-
+  La calidad del servicio importa en una red de datos porque la información que se comparte ha advertido en su complejidad, cada día los usuarios demandan más servicios a la red como lo es texto, audio, video, llamadas etc por lo tanto esto tiene que estar en la capacidad de ofrecer un servicio que llene las expectativas de los usuarios tanto en velocidad, estabilidad y confiabilidad.
 
 Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
