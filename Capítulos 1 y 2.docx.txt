@@ -112,6 +112,9 @@ Capa de acceso a la red: En esta capa, los datos se encapsulan en una PDU llamad
 
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+  Un modelo protocolo es aquel que coincide fielmente con la estructura de una suite de protocolo en particular ejemplo el modelo TCP/IP con el protocolo TCP , por otro lado un modelo referencia no está pensado para una estructura de protocolo en particular sino que su fin es estandarizar y explicar el funcionamiento de los diferentes protocolos utilizados en una red.
+
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
 Modelo TCP/IP:
 Capa de acceso a la red: Esta capa se encarga de la transmisión de los datos a través del medio físico de la red, como el cable de red, fibra óptica, ondas de radio, etc.
